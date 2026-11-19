@@ -1,0 +1,6 @@
+{
+  "name": "CineRecap Burmese & Multi-Language Subtitle Studio",
+  "description": "AI-powered movie recap subtitle translator and localization workbench featuring 6 distinct Burmese stylistic registers (Polite & Natural, Diplomatic & Soft, Casual Spoken, Dramatic & Sharp, Cold & Direct, Natural & Idiomatic) and multi-language export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
